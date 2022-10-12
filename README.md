@@ -19,3 +19,7 @@ Please copy/paste the text below into your mine_ycash file
 
 
  NOTE: If you are on Windows, save with the file extension '.bat', if you are on Linux, please save with the file extension '.sh'
+ ```
+ 
+ 
+ <a href="https://nultinator.github.io/miner_builder.html">Try it Out!</a>
