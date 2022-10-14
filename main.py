@@ -1,6 +1,9 @@
 ###Get miner type
 print("Do you use miniZ or Gminer?")
 miner = input()
+while miner.lower() != "gminer" and miner.lower() != "miniz":
+  print("Selection not valid, please choose either Gminer or miniZ")
+  miner = input()
 
 ### Get mining pool url
 print("please enter mining pool url\nexample: ycash.dapool.io:3344")
